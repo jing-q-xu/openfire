@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/lib/hamcrest-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/cglib-nodep.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/mockito-core-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/i4jruntime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/byte-buddy-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/objenesis-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/byte-buddy-agent-1.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

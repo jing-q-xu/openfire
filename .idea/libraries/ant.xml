@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="ant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/ant-contrib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/jugbbant-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/ant-junit4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/slf4j-simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/xmltask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/ant-junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/ant/ant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

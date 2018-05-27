@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/jtds.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/bcpg-jdk15on.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/postgres.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/npn-boot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/slf4j-log4j12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/mysql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/javax.websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/bcprov-jdk15on.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/dist/bcpkix-jdk15on.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/lucene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/picocontainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jrobin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jersey-bundle-1.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jersey-servlet-1.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/itext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/monitoring/lib/jackson-jaxrs-1.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

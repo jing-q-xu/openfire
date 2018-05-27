@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/jmxweb/lib/genson-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/jmxweb/lib/itextpdf-5.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/jmxweb/lib/quartz-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="merge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/rome-fetcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/mina-integration-jmx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/mina-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-jmx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/javax-websocket-client-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-continuation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jaxen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/spdy-http-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/websocket-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/shaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/spdy-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/concurrentlinkedhashmap-lru-1.0_jdk5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/spdy-http-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/commons-pool2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jsmpp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/javax-websocket-server-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/org.apache.taglibs.taglibs-standard-spec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/mina-filter-compression.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/rome.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/mina-integration-beans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/sitemesh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jcl-over-slf4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-security.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/dbutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jzlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/tinder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/mina-integration-ognl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jmdns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-http.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/spdy-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/org.eclipse.jetty.apache-jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/org.mortbay.jasper.apache-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/libidn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/spdy-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/websocket-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/ognl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/websocket-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/proxool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-plus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/org.apache.taglibs.taglibs-standard-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/dom4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-webapp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-servlets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/org.mortbay.jasper.apache-jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/stringprep.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-schemas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/javax.websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/org.eclipse.jetty.orbit.org.eclipse.jdt.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/jetty-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/websocket-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/merge/ant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

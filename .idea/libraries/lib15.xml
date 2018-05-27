@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jersey-bundle-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jersey-servlet-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/asm-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/userservice/lib/jettison-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

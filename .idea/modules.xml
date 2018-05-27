@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/bookmarks/src/bookmarks.iml" filepath="$PROJECT_DIR$/src/plugins/bookmarks/src/bookmarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/broadcast/src/broadcast.iml" filepath="$PROJECT_DIR$/src/plugins/broadcast/src/broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/callbackOnOffline/src/callbackOnOffline.iml" filepath="$PROJECT_DIR$/src/plugins/callbackOnOffline/src/callbackOnOffline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/candy/src/candy.iml" filepath="$PROJECT_DIR$/src/plugins/candy/src/candy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/clientControl/src/clientControl.iml" filepath="$PROJECT_DIR$/src/plugins/clientControl/src/clientControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/contentFilter/src/contentFilter.iml" filepath="$PROJECT_DIR$/src/plugins/contentFilter/src/contentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/dbaccess/src/dbaccess.iml" filepath="$PROJECT_DIR$/src/plugins/dbaccess/src/dbaccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/emailListener/src/emailListener.iml" filepath="$PROJECT_DIR$/src/plugins/emailListener/src/emailListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/emailOnAway/src/emailOnAway.iml" filepath="$PROJECT_DIR$/src/plugins/emailOnAway/src/emailOnAway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/fastpath/src/fastpath.iml" filepath="$PROJECT_DIR$/src/plugins/fastpath/src/fastpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/gojara/src/gojara.iml" filepath="$PROJECT_DIR$/src/plugins/gojara/src/gojara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/hazelcast/src/hazelcast.iml" filepath="$PROJECT_DIR$/src/plugins/hazelcast/src/hazelcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/inverse/src/inverse.iml" filepath="$PROJECT_DIR$/src/plugins/inverse/src/inverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/jingleNodes/src/jingleNodes.iml" filepath="$PROJECT_DIR$/src/plugins/jingleNodes/src/jingleNodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/jmxweb/src/jmxweb.iml" filepath="$PROJECT_DIR$/src/plugins/jmxweb/src/jmxweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/justmarried/src/justmarried.iml" filepath="$PROJECT_DIR$/src/plugins/justmarried/src/justmarried.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/kraken/src/kraken.iml" filepath="$PROJECT_DIR$/src/plugins/kraken/src/kraken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/loadStats/src/loadStats.iml" filepath="$PROJECT_DIR$/src/plugins/loadStats/src/loadStats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/monitoring/src/monitoring.iml" filepath="$PROJECT_DIR$/src/plugins/monitoring/src/monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/motd/src/motd.iml" filepath="$PROJECT_DIR$/src/plugins/motd/src/motd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/mucservice/src/mucservice.iml" filepath="$PROJECT_DIR$/src/plugins/mucservice/src/mucservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/nodejs/src/nodejs.iml" filepath="$PROJECT_DIR$/src/plugins/nodejs/src/nodejs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/nonSaslAuthentication/src/nonSaslAuthentication.iml" filepath="$PROJECT_DIR$/src/plugins/nonSaslAuthentication/src/nonSaslAuthentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/openfire_src.iml" filepath="$PROJECT_DIR$/src/openfire_src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/packetFilter/src/packetFilter.iml" filepath="$PROJECT_DIR$/src/plugins/packetFilter/src/packetFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/presence/src/presence.iml" filepath="$PROJECT_DIR$/src/plugins/presence/src/presence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/rayo/src/rayo.iml" filepath="$PROJECT_DIR$/src/plugins/rayo/src/rayo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/registration/src/registration.iml" filepath="$PROJECT_DIR$/src/plugins/registration/src/registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/restAPI/src/restAPI.iml" filepath="$PROJECT_DIR$/src/plugins/restAPI/src/restAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/search/src/search.iml" filepath="$PROJECT_DIR$/src/plugins/search/src/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/sip/src/sip.iml" filepath="$PROJECT_DIR$/src/plugins/sip/src/sip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/stunserver/src/stunserver.iml" filepath="$PROJECT_DIR$/src/plugins/stunserver/src/stunserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/subscription/src/subscription.iml" filepath="$PROJECT_DIR$/src/plugins/subscription/src/subscription.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/test.iml" filepath="$PROJECT_DIR$/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/userImportExport/src/test/test1.iml" filepath="$PROJECT_DIR$/src/plugins/userImportExport/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/contentFilter/src/test/test2.iml" filepath="$PROJECT_DIR$/src/plugins/contentFilter/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/throttletest/throttletest.iml" filepath="$PROJECT_DIR$/src/test/throttletest/throttletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/tikitoken/src/tikitoken.iml" filepath="$PROJECT_DIR$/src/plugins/tikitoken/src/tikitoken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/tools/tools.iml" filepath="$PROJECT_DIR$/src/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/userCreation/src/userCreation.iml" filepath="$PROJECT_DIR$/src/plugins/userCreation/src/userCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/userImportExport/src/userImportExport.iml" filepath="$PROJECT_DIR$/src/plugins/userImportExport/src/userImportExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/userStatus/src/userStatus.iml" filepath="$PROJECT_DIR$/src/plugins/userStatus/src/userStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/userservice/src/userservice.iml" filepath="$PROJECT_DIR$/src/plugins/userservice/src/userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/plugins/xmldebugger/src/xmldebugger.iml" filepath="$PROJECT_DIR$/src/plugins/xmldebugger/src/xmldebugger.iml" />
+    </modules>
+  </component>
+</project>

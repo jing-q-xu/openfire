@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/jingleNodes/lib/smack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/jingleNodes/lib/jnsapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/jingleNodes/lib/smackx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

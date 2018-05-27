@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="json-201608101">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/inverse/lib/json-20160810.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

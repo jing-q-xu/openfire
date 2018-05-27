@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/test/throttletest/build/lib/smack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/test/throttletest/build/lib/smackx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

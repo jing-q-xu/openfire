@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/jersey-common-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/jersey-client-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/jersey-guava-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/hk2-utils-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/hk2-api-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/hk2-locator-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/callbackOnOffline/lib/jersey-media-json-jackson-2.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jstun-0.7.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/stunserver/lib/jstun-0.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

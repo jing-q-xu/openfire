@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/classmate-0.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/jain-sip-ri.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/jboss-logging-3.1.1.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/mscontrol-api-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/joda-time-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/rayo-native-windows-64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/rayo-native-macosx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/stun.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/en_us.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/moho-api-trunk-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/cmudict04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/jspeex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/voip-sounds.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/jain-sip-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/rayo-native-linux-32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/cmu_us_kal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/cmutimelex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/rayo-core-2.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/cmulex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/javax.el-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/guava-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/vlib-core-12.2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/javax.el-api-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/codecLib_dtmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/hibernate-validator-5.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/rayo-native-windows-32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/netty-3.5.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/rayo-native-linux-64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/tinder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/rayo/lib/freetts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

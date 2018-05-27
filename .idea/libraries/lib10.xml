@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/restAPI-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jersey-json-1.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jersey-servlet-1.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jersey-client-1.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jersey-server-1.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jersey-core-1.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jaxb-api-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/restAPI/lib/jaxb-impl-2.2.3-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

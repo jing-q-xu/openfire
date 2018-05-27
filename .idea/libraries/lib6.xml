@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/web/WEB-INF/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/WEB-INF/lib/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/WEB-INF/lib/dwr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

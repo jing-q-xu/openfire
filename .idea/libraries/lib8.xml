@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jersey-servlet-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/asm-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jersey-bundle-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/mucservice/lib/jsr311-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
